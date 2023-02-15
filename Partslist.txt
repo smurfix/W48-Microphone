@@ -1,0 +1,11 @@
+Parts-List
+
+Mouser
+665-AOM4546PR	AOM-4546P-R	Mikrofone Mikrofone 2.2kOhm x 9.7mm
+771-BC847C-T/R	BC847C,215	Bipolartransistoren - BJT Bipolartransistoren - BJT BC847C/SOT23/TO-236AB
+621-BAV199-F	BAV199-7-F	Dioden (Allzweck, Leistung, Schaltung) 85V 250mW
+581-TAJD107M010	TAJD107M010RNJ	Tantalkondensatoren - fest für SMD  Tantalkondensatoren - fest für SMD  10V 100uF 2917 ESR=700mOhms 20%
+ 
+Reichelt
+PT 10-L 1,0M    Poti 1 MegaOhm
+
